@@ -1,5 +1,7 @@
 # Online Store
 
+<a href="https://the-lama-shop.vercel.app/">LIVE DEMO </a>
+
 An ecommerce platform made with Next.js, Tailwind Css, Redux, Stripe, Email Js, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend.
 
 ## App Features
