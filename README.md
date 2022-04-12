@@ -1,12 +1,9 @@
-# The Lama Shop
-
-### [Live Demo](https://the-lama-shop.vercel.app/)
+# Online Store
 
 An ecommerce platform made with Next.js, Tailwind Css, Redux, Stripe, Email Js, Material Ui for the frontend and Node Js, Express, MongoDb, JWT for the backend.
-It also has an [Admin](https://lama-shop-admin.vercel.app/) Panel to edit and add products on the store.
 
 ## App Features
-- This ecommerce store is buit using Next js and Tailwind Css. 
+- This ecommerce store is buit using React js. 
 - State management is done using Redux and Redux Persist to persist the app's state like user login and cart on reload.
 - We can register a new account, login to add products. 
 - User authentication is done using JWT.
@@ -17,13 +14,3 @@ It also has an [Admin](https://lama-shop-admin.vercel.app/) Panel to edit and ad
 
 ### Credentials for testing
 - Stripe checkout
-
-
- ![image](https://user-images.githubusercontent.com/74774395/140616482-aab7617a-f7cd-4cc1-b505-f61289d833c6.png)
-
-
-- Admin account 
-  - username: lama_admin
-  - password: 123
-
-
